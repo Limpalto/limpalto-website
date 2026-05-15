@@ -1,6 +1,7 @@
 import React from 'react';
 import { MapPin, Mail, Send } from 'lucide-react';
 import { Button } from '../ui/Button';
+import { color } from 'framer-motion';
 
 export const Footer = () => (
   <footer className="bg-emerald-900 text-white pt-24 pb-8">
@@ -37,7 +38,7 @@ export const Footer = () => (
         </div>
       </div>
       <div className="border-t border-emerald-800 pt-8 text-center text-emerald-400 text-sm">
-        © 2026 Limpalto. Todos os direitos reservados.
+        Desenvolvolido pela Agência Mais Resultado. Empresa de <a href="https://agenciamaisresultado.com.br">Marketing visual</a>
       </div>
     </div>
   </footer>
