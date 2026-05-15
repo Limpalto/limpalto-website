@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7aeb7bfe.css",
+    "main.js": "/static/js/main.d002642f.js",
+    "static/js/453.f30133a9.chunk.js": "/static/js/453.f30133a9.chunk.js",
+    "static/media/paisagismo.webp": "/static/media/paisagismo.63fa9164f7c815c7bfb5.webp",
+    "static/media/banner_inicial_01.webp": "/static/media/banner_inicial_01.896f9dbe45cf4b7495c7.webp",
+    "static/media/services_at.webp": "/static/media/services_at.1775ac8c0e3f6f565069.webp",
+    "static/media/limpeza.webp": "/static/media/limpeza.88b7b68a29a8b4c3d2cc.webp",
+    "static/media/seguranca.webp": "/static/media/seguranca.4d6897244de850910f19.webp",
+    "static/media/logo_llimpalto.webp": "/static/media/logo_llimpalto.cac8fa21017e09953971.webp",
+    "index.html": "/index.html",
+    "main.7aeb7bfe.css.map": "/static/css/main.7aeb7bfe.css.map",
+    "main.d002642f.js.map": "/static/js/main.d002642f.js.map",
+    "453.f30133a9.chunk.js.map": "/static/js/453.f30133a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aeb7bfe.css",
+    "static/js/main.d002642f.js"
+  ]
+}
