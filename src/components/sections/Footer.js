@@ -38,7 +38,7 @@ export const Footer = () => {
 
     try {
       // ATENÇÃO: Substitua o LINK abaixo pelo link que o Formspree vai te dar!
-      const linkDoServidor = 'https://formspree.io/f/xlgvalgq';
+      const linkDoServidor = 'https://formspree.io/f/xjgzjebr';
 
       const resposta = await fetch(linkDoServidor, {
         method: 'POST',
