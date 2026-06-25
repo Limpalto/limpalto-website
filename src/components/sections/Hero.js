@@ -72,7 +72,7 @@ export const Hero = () => {
     {
       id: 1,
       image: imgFundo01,
-      tag: "Terceirização Inteligente para Condomínios e Empresas",
+      tag: "Serviço de Limpeza para Empresas e Condomínios RJ",
       title: "Cuidado Premium para o seu Patrimônio.",
       highlight: "Tranquilidade",
       description: "Há 11 anos transformando ambientes com excelência em Paisagismo, Limpeza e Portaria no Rio de Janeiro."
@@ -125,7 +125,7 @@ export const Hero = () => {
                 alt={slide.title} 
                 className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-black/50 md:bg-emerald-950/70" />
+              <div className="absolute inset-0 bg-emerald-950/70 md:bg-emerald-950/70" />
             </div>
 
             <div className="relative z-10 max-w-7xl mx-auto px-6 w-full">
