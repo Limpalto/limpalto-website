@@ -146,7 +146,7 @@ export const Hero = () => {
                 <p className="text-xl text-emerald-50/80 mb-10 leading-relaxed max-w-2xl">
                   {slide.description}
                 </p>
-                <a href='https://wa.me/5521998739149' target='_blank' rel="noreferrer">
+                <a href='https://wa.me/5521995485623' target='_blank' rel="noreferrer">
                   <Button variant="primary" className="text-lg px-8 py-6 h-auto">
                     <MessageCircle className="fill-current" /> Orçamento Rápido
                   </Button>

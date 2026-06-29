@@ -1,7 +1,7 @@
 import React from 'react';
 
 function BotaoWhatsApp() {
-  const numeroWhatsApp = "5521998739149"; // Exemplo: 55 + DDD + Numero
+  const numeroWhatsApp = "5521995485623"; // Exemplo: 55 + DDD + Numero
   const mensagem = "Olá! gostaria de mais informações!";
   const url = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensagem)}`;
 

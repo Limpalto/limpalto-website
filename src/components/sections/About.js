@@ -27,7 +27,7 @@ export const About = () => (
           </p>
           <p className="text-lg text-slate-600 mb-8 leading-relaxed">Em constante fase de crescimento, a Limpalto presta serviços de limpeza, conservação, portaria, recepção, guardião de piscina, paisagismo, jardinagem, entre outros.
           </p>
-          <a href='https://wa.me/5521998739149?text=Olá! gostaria de mais informações' target='_blank'>
+          <a href='https://wa.me/5521995485623?text=Olá! gostaria de mais informações' target='_blank'>
            <Button variant="dark">Fale com um Consultor</Button></a>
         </motion.div>
       </div>
